@@ -1,4 +1,4 @@
-def main(x,y):
+def main(x, y):
     """
     Given two integers x, y return the "(x+y)*2={answer}" string.
     Args:
@@ -11,5 +11,5 @@ def main(x,y):
     return f'({x} + {y}) *2 = 20'
 
 
-v =  main(4,6)
+v = main(4, 6)
 print(v)
