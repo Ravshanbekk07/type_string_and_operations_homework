@@ -7,4 +7,9 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+   # b = (x+y)*2 = 20
+    return f'({x} + {y}) *2 = 20'
+
+
+v =  main(4,6)
+print(v)
