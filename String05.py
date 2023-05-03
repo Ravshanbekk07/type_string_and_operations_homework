@@ -7,4 +7,7 @@ def main(s1,s2):
     Returns:
         str: return answer.
     """
-    return 
+    return f"'{s1} {s2}'"
+
+v = main('code', 'school')
+print(v)
