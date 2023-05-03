@@ -5,5 +5,9 @@ def main():
         None
     Returns:
         str: return answer.
-    """
-    return 
+    """ 
+    b = ''
+    return len(b)
+
+v = main()
+print(v)
