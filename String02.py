@@ -6,4 +6,10 @@ def main():
     Returns:
         str: return answer.
     """
+    a = 'codeschooluz'
+    b = a.upper()
+    print(b)
     return 
+v = main()
+print(v)
+
