@@ -7,4 +7,8 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return f'{last},{first}'
+
+
+v = main('otabek','tursunov')
+print(v)
