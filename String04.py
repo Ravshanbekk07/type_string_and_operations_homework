@@ -6,5 +6,9 @@ def main():
     Returns:
         str: return answer.
     """
-    s = "s"
-    return 
+    s = 's'
+    
+    #return  "\'" +s + "\'"
+    return f'" {s} "'
+b = main()
+print(b)
